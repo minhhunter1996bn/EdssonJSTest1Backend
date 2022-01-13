@@ -1,0 +1,17 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "_id": "",
+        "label": "",
+        "type": "",
+        "maxLength": 100
+      },
+      {
+        "_id": "",
+        "label": "",
+        "type": ""
+      }
+    ]
+  }
+}

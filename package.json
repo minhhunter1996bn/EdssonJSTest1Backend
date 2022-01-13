@@ -1,0 +1,19 @@
+{
+  "name": "edssonjstest1backend",
+  "version": "1.0.0",
+  "description": "Edsson JSTest 1 Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhhunter1996bn/EdssonJSTest1Backend.git"
+  },
+  "author": "Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhhunter1996bn/EdssonJSTest1Backend/issues"
+  },
+  "homepage": "https://github.com/minhhunter1996bn/EdssonJSTest1Backend#readme"
+}
