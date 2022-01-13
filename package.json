@@ -4,7 +4,7 @@
   "description": "Edsson JSTest 1 Backend Project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon --legacy-watch ./index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/minhhunter1996bn/EdssonJSTest1Backend/issues"
   },
-  "homepage": "https://github.com/minhhunter1996bn/EdssonJSTest1Backend#readme"
+  "homepage": "https://github.com/minhhunter1996bn/EdssonJSTest1Backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "body-parser": "latest",
+    "nodemon": "^2.0.15"
+  }
 }
